@@ -1,3 +1,12 @@
+# ignore datasets
+data/PTSS_Data_Foras.xlsx
+data/PTSS_Data_Synergy.xlsx
+data/PTSS_Data_Foras_Fulltext.xlsx
+data/PTSS_Data_Synergy_Fulltext.xlsx
+
+#ignore output
+output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
