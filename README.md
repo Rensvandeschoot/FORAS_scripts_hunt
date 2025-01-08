@@ -22,10 +22,14 @@ reproducibility.
   - Checks for synchronization between primary datasets and second-screener data.
   - Reports detailed insights into any violations or inconsistencies.
 
-## Upcoming
+## `hunt_analysis.ipynb`:
 
-- **`hunt_analysis.ipynb`**:
-  - A second notebook for conducting the analyses for the paper.
+- **Purpose**: Conducts analyses for the paper.
+
+- **Features**:
+  - Implements statistical tests and visualizations.
+  - Analyzes dataset trends and patterns to support the systematic review findings.
+  - Provides clear outputs for inclusion in the manuscript.
 
 ## Required Input Datasets
 
@@ -66,8 +70,11 @@ Place the required input datasets in the data/ directory and open the notebooks:
 
    ```bash
 	jupyter notebook hunt_tests.ipynb
-	Follow the steps in the notebook to validate your datasets.
-   ```
+   jupyter notebook hunt_analysis.ipynb
+	```
+
+Follow the steps in the notebook.
+   
 
 ## Funding 
 The research is supported by the Dutch Research Council under grant number 406.22.GO.048
