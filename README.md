@@ -45,7 +45,7 @@ The following datasets are required to run the notebooks:
    - Contains second-screener evaluations for the same full-text records.
 
 4. **`PTSS_Data_Synergy.xlsx`**
-   - The initia dataset used for comparison and cross-checks.
+   - The initial dataset used for comparison and cross-checks.
 
 5. **`PTSS_Data_Synergy_Fulltext.xlsx`**
    - Contains full-text screening information for the `PTSS_Data_Synergy` dataset.
@@ -69,9 +69,9 @@ Install dependencies: Ensure you have Python and Jupyter installed, along with n
 Place the required input datasets in the data/ directory and open the notebooks:
 
    ```bash
-	jupyter notebook hunt_tests.ipynb
+   jupyter notebook hunt_tests.ipynb
    jupyter notebook hunt_analysis.ipynb
-	```
+   ```
 
 Follow the steps in the notebook.
    
