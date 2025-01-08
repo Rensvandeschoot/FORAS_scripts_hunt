@@ -54,7 +54,7 @@ Clone the repository:
    ```bash
    git clone https://github.com/yourusername/hunt-for-the-last-relevant-paper.git
    cd hunt-for-the-last-relevant-paper
-	```
+   ```
 
 Install dependencies: Ensure you have Python and Jupyter installed, along with necessary Python libraries:
 
